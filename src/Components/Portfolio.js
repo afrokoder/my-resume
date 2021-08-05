@@ -1,9 +1,9 @@
-import React from "react";
+import React from 'react';
 
 const Portfolio = ({ data }) => {
   if (data) {
     var projects = data.projects.map(function (projects) {
-      var projectImage = "images/portfolio/" + projects.image;
+      var projectImage = 'images/portfolio/' + projects.image;
       return (
         <div key={projects.title} className="columns portfolio-item">
           <div className="item-wrap">
@@ -29,7 +29,7 @@ const Portfolio = ({ data }) => {
     <section id="portfolio">
       <div className="row">
         <div className="twelve columns collapsed">
-          <h1>Check Out Some of My Works: Coming Soon....</h1>
+          <h1>Check Out Some of My Work: More Coming Soon....</h1>
 
           <div
             id="portfolio-wrapper"

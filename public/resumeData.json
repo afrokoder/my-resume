@@ -93,13 +93,19 @@
         "level": "90%"
       },
       {
-        "name": "Web Development",
+        "name": "Data Visualization",
         "level": "95%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "AirBnb Clone (ReactJS + Next Js + TailwindCSS)",
+        "category": "",
+        "image": "airbnb.png",
+        "url": "https://airbnb-demo-bay.vercel.app/"
+      }
       
     ]
   },
