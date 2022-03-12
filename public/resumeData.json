@@ -4,7 +4,7 @@
     "occupation": "Software Engineer",
     "description": "@ the corner of Tech & Happiness",
     "image": "profilepic.png",
-    "bio":"Hi there! I am Kelechi U! You might also know me as Afrokoder. Nigerian-American residing in the Midwest USA. I've been in tech for over 5 years now and software development the past two. As a Full Stack developer & Data Scientist I also work across the board (startups to large corporations) with those looking to utilize their data to make better business decisions and improve their products and services. As Ive progressed through my tech journey I’ve realized an increase in my passion to help others find their place in tech, skill up into those roles and pursue their dreams as upcoming developers. So please reach out to me and let’s get a conversation started, a partnership or a business deal going. Looking forward to meeting you!",
+    "bio": "Hi there! I am Kelechi U! You might also know me as Afrokoder. Nigerian-American residing in the Midwest USA. I've been in tech for over 5 years now and software development the past two. As a Full Stack developer & Data Scientist I also work across the board (startups to large corporations) with those looking to utilize their data to make better business decisions and improve their products and services. As Ive progressed through my tech journey I’ve realized an increase in my passion to help others find their place in tech, skill up into those roles and pursue their dreams as upcoming developers. So please reach out to me and let’s get a conversation started, a partnership or a business deal going. Looking forward to meeting you!",
     "contactmessage": "Interested in working with Me? send me some basic information & lets get in touch!",
     "email": "kelechi@afrodevs.org",
     "phone": "+1 (651) 560-0093",
@@ -14,8 +14,8 @@
       "state": "MN",
       "zip": "55413"
     },
-    "website": "https://www.linkedin.com/in/kelechiuchegbu", 
-    "resumedownload": "https://www.linkedin.com/in/kelechiuchegbu", 
+    "website": "https://www.linkedin.com/in/kelechiuchegbu",
+    "resumedownload": "https://www.linkedin.com/in/kelechiuchegbu",
     "social": [
       {
         "name": "twitter",
@@ -69,11 +69,10 @@
       },
       {
         "company": "Afrodevs.Org",
-        "title": "Founder/CTO",
+        "title": "Founder",
         "years": "May 2019 - Present",
         "description": "Curating A support community for Devs of Color & African Heritage."
       }
-     
     ],
     "skills": [
       {
@@ -105,8 +104,13 @@
         "category": "",
         "image": "airbnb.png",
         "url": "https://airbnb-demo-bay.vercel.app/"
+      },
+      {
+        "title": "MyTravel Plug (ReactJS + Material UI + RapidApi)",
+        "category": "",
+        "image": "mytravelplug.png",
+        "url": "https://mytravelplug.netlify.app"
       }
-      
     ]
   },
   "testimonials": {
